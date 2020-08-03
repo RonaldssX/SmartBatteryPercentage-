@@ -1,0 +1,9 @@
+Package: com.ronaldss.smartbatterypercentagep
+Name: SmartBatteryPercentage+
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Combine the battery % of the device and the Apple Smart Battery Case.
+Maintainer: Ronaldss
+Author: Ronaldss
+Section: Tweaks
